@@ -1,0 +1,18 @@
+.robo-font {
+  //font-family: "VT323", monospace;
+  font-family: "Dancing", monospace;
+  font-weight: 600;
+  font-style: normal;
+}
+
+body > * {
+  font-family: "Dancing", monospace !important;
+  font-weight: 600;
+  font-style: normal;
+}
+
+
+.current-value-container {
+  background-color: #bbc0b2;
+  color: black;
+}
