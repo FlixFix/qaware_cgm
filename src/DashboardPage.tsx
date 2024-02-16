@@ -136,12 +136,12 @@ export function DashboardPage(): ReactElement {
                             data: low,
                             area: true,
                             showMark: false,
-                            label: 'Hoch [mg/dL]'
+                            label: 'Niedrig [mg/dL]'
                         },
                         {
                             data: high,
                             showMark: false,
-                            label: 'Niedrig [mg/dL]'
+                            label: 'Hoch [mg/dL]'
                         },
                     ]}
                     margin={{ left: 60, top: 100, right: 20 }}
